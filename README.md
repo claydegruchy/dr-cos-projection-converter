@@ -1,5 +1,5 @@
 # DR Cos Projection Converter
-converts pdfs from [text](https://dr-cos.info/) into projectable PDFs suitable for [text](https://www.patternprojector.com/)
+converts pdfs from [dr-cos.info](https://dr-cos.info/) into projectable PDFs suitable for [patternprojector.com](https://www.patternprojector.com/)
 
 
 we do this by 
